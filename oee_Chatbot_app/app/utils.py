@@ -49,3 +49,4 @@ def filter_data(df, machine_id=None, date=None, location=None):
 
     return df_aggregated
 
+
