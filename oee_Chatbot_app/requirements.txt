@@ -1,0 +1,26 @@
+
+#File Structure 
+oee_chatbot_project/
+│
+├── app/
+│   ├── chat_ui.py            # Streamlit app interface
+│   ├── oee_calculator.py     # OEE logic
+│   ├── utils.py              # Helper functions for data loading & filtering
+│   └── data/
+│       └── sensor_data.xlsx  # Your IoT sensor data (Excel file)
+│
+├── README.md
+├── requirements.txt
+
+
+
+
+#Required libraries while doing in VScode using Python
+streamlit
+pandas
+openpyxl   # Required for reading .xlsx files
+
+
+#How to run the app
+cd oee_chatbot_project/app
+streamlit run chat_ui.py
