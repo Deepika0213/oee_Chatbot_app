@@ -33,10 +33,6 @@ oee_chatbot_app/ ├── app/ │ ├── chat_ui.py # Streamlit app │ ├
 Sample Sensor Data
 Device_ID	Date	Runtime	Downtime	Product_Count	Good_Products	Location
 PKG_001	01-01-2024	54	6	972	972	Chennai
-How to Run the App
-Clone the repository
-git clone https://github.com/yourusername/oee_chatbot_app.git
-cd oee_chatbot_app
 
 ---
 
