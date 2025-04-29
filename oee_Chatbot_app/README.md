@@ -58,15 +58,6 @@ oee_chatbot_app/ ├── app/ │ ├── chat_ui.py # Streamlit app │ ├
 
 ---
 
-##  How to Run the App
-
-1. **Clone the repository**
-
-```bash
-git clone https://github.com/yourusername/oee_chatbot_app.git
-cd oee_chatbot_app
-
----
 
 # Run the Streamlit app:
 
